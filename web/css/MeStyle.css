@@ -1,0 +1,52 @@
+
+header
+{
+    background:#2c3e50 ;
+    color: #fff;
+}
+
+.main
+{
+    background: #f2f2f2;
+    
+}
+
+.color1
+{
+    background: skyblue;
+    color: #fff;
+}
+
+.color2
+{
+    background: peachpuff;
+    color: #000;
+}
+
+aside
+{
+    background: #c0392b;
+    color: #fff;
+}
+
+footer
+{
+    background: #1bac91;
+    color: #fff;
+}
+
+
+
+
+
+
+/*Si el valor que el usuario escribe es valido, obtendra un color verde*/
+form input[type="email"]:required:valid{
+ border:2px solid green;
+ /* otras propiedades */
+}
+/*caso contrario, el color sera rojo*/
+form input[type="email"]:focus:required:invalid{
+ border:2px solid red;
+ /* otras propiedades */
+}

@@ -1,0 +1,33 @@
+#inicio
+{
+  background-image: url(../imagenes/CYTY.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+/*@keyframes pulse {
+  0% {
+   background-image: url(../imagenes/CYTY.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+  }
+  50% {
+    background-image: url(../imagenes/h.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+  }
+  100% {
+    background-image: url(../imagenes/i.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+  }
+}
+*/
+footer{
+	background-color: black;
+	margin-top: 10px;
+}

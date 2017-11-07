@@ -1,0 +1,11 @@
+/*para los div de paquetes CSS Document */
+
+.caja{
+background:#CCCCCC;
+color:#FFFFFF;
+float:left;
+width:210px;
+height:280px;
+text-align:center;
+border:1px solid #0099CC;
+}

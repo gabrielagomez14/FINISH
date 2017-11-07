@@ -1,0 +1,60 @@
+#hotel{
+	background-image:url(../imagenes/fondo.jpg); 
+	}
+
+@media (min-width: 480px) {
+ #hotel{
+        background-image: url("../imagenes/fondo.jpg");
+    }
+}
+
+@media (min-width: 768px) {
+#hotel {
+        background-image: url("../imagenes/fondo.jpg");
+    }
+}
+
+@media (min-width: 1200px) {
+#hotel {
+        background-image: url("../imagenes/fondo.jpg");
+
+    }
+}
+
+#tabla{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+#color{
+	color:black;
+	size:30px;
+}
+footer{
+	background-color: black;
+        color: white; 
+}
+
+@media (min-width: 480px) {
+ footer{
+        background-color: black;
+        color: white;
+    }
+}
+
+@media (min-width: 768px) {
+footer{
+       background-color: black;
+        color: white;
+    }
+}
+
+@media (min-width: 1200px) {
+footer {
+        background-color: black;
+        color: white;
+
+    }
+
+#pruebai{
+text-align: center;
+}
